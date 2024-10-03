@@ -13,8 +13,7 @@ const setup = () => {
 
   // for query purposes
   const queryClient = postgres(process.env.DATABASE_URL);
-  const db = drizzle(queryClient);
-  return db;
+  return drizzle(queryClient);
 };
 
 export default setup();

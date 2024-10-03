@@ -4,7 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0524661-1080-4b63-9888-1d6ffd9c86ba" name="Changes" comment="" />
+    <list default="true" id="e0524661-1080-4b63-9888-1d6ffd9c86ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/drizzle/0000_condemned_maelstrom.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drizzle/meta/0000_snapshot.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drizzle/meta/_journal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AdvocatesTable/FilterInput.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AdvocatesTable/Loader.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AdvocatesTable/Pagination.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AdvocatesTable/SearchInput.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AdvocatesTable/Specialties.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AdvocatesTable/SpecialtiesDropdown.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AdvocatesTable/TableView.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AdvocatesTable/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/badge.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/checkbox.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/dropdown-menu.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/input.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/label.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/pagination.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/scroll-area.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/table.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useAdvocateSearchParams.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useAdvocatesData.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useSearchParamsHandler.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DISCUSSION.md" beforeDir="false" afterPath="$PROJECT_DIR$/DISCUSSION.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/api/advocates/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/api/advocates/route.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/db/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db/migrate.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/db/migrate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db/schema.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/db/schema.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db/seed/advocates.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/db/seed/advocates.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +65,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "complete-assignment",
     "last_opened_file_path": "/Users/anthonytorres/Desktop/solace-candidate-assignment",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
@@ -48,6 +86,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/components/AdvocatesTable" />
@@ -72,6 +113,8 @@
       <workItem from="1727565888225" duration="1000" />
       <workItem from="1727744894817" duration="25359000" />
       <workItem from="1727911350625" duration="4815000" />
+      <workItem from="1727980061007" duration="38000" />
+      <workItem from="1727980227114" duration="228000" />
     </task>
     <servers />
   </component>
